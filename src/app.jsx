@@ -1,8 +1,8 @@
-
+import { Header } from "./components"
 export function App() {
   return (
     <>
-      <p className="">Hola mundo</p>
+      <Header />
     </>
   )
 }
